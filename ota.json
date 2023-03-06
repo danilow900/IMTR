@@ -1,7 +1,5 @@
 {
     "type": "IMTS",
     "version": 2,
-    "host": "http://github.com/danilow900/IMTR/raw/main",
-    "port": 80,
-    "bin": "/firmware.bin"
+    "url": "http://github.com/danilow900/IMTR/raw/main/firmware.bin"
 }
